@@ -49,11 +49,10 @@ Add Doctor
 Doctor List
 
 Exit
+
 Output:
+
 <img width="400" height="299" alt="image" src="https://github.com/user-attachments/assets/4d57c0da-2cbc-4ac1-8aee-a3bfcc5b165a" />
 
 <img width="393" height="351" alt="image" src="https://github.com/user-attachments/assets/7383a929-c49d-4b8d-b440-522e7c5930ae" />
-
-
-## 📆 Menu Options in Program
 
